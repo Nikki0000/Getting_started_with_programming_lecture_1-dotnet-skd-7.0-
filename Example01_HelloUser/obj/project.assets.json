@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Savodyarkin_N\\Desktop\\GeekBrains\\Знакомство с языками программирования (3 courses)\\Lecture_Знакомство с языками программирования\\Lesson_1_Введение (dotnet sdk 7.0)\\Example01_HelloUser\\Example01_HelloUser.csproj",
+      "projectUniqueName": "C:\\Users\\Savodyarkin_N\\Desktop\\Lesson_1_Введение (dotnet sdk 7.0)\\Example01_HelloUser\\Example01_HelloUser.csproj",
       "projectName": "Example01_HelloUser",
-      "projectPath": "C:\\Users\\Savodyarkin_N\\Desktop\\GeekBrains\\Знакомство с языками программирования (3 courses)\\Lecture_Знакомство с языками программирования\\Lesson_1_Введение (dotnet sdk 7.0)\\Example01_HelloUser\\Example01_HelloUser.csproj",
+      "projectPath": "C:\\Users\\Savodyarkin_N\\Desktop\\Lesson_1_Введение (dotnet sdk 7.0)\\Example01_HelloUser\\Example01_HelloUser.csproj",
       "packagesPath": "C:\\Users\\Savodyarkin_N\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Savodyarkin_N\\Desktop\\GeekBrains\\Знакомство с языками программирования (3 courses)\\Lecture_Знакомство с языками программирования\\Lesson_1_Введение (dotnet sdk 7.0)\\Example01_HelloUser\\obj\\",
+      "outputPath": "C:\\Users\\Savodyarkin_N\\Desktop\\Lesson_1_Введение (dotnet sdk 7.0)\\Example01_HelloUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Savodyarkin_N\\AppData\\Roaming\\NuGet\\NuGet.Config",
